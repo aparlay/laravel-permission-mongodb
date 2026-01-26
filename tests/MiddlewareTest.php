@@ -9,7 +9,6 @@ use Maklad\Permission\Exceptions\UnauthorizedException;
 use Maklad\Permission\Middlewares\PermissionMiddleware;
 use Maklad\Permission\Middlewares\RoleMiddleware;
 use Monolog\Level;
-use Monolog\Logger;
 
 class MiddlewareTest extends TestCase
 {

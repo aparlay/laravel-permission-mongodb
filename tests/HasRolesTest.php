@@ -6,7 +6,6 @@ use Maklad\Permission\Exceptions\GuardDoesNotMatch;
 use Maklad\Permission\Exceptions\RoleDoesNotExist;
 use Maklad\Permission\Models\Role;
 use Monolog\Level;
-use Monolog\Logger;
 
 class HasRolesTest extends TestCase
 {
