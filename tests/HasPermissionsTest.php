@@ -7,7 +7,6 @@ use Maklad\Permission\Exceptions\PermissionDoesNotExist;
 use Maklad\Permission\Models\Permission;
 use Maklad\Permission\Models\Role;
 use Monolog\Level;
-use Monolog\Logger;
 
 class HasPermissionsTest extends TestCase
 {

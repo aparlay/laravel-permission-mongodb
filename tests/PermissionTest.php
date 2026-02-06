@@ -5,7 +5,6 @@ namespace Maklad\Permission\Test;
 use Maklad\Permission\Exceptions\PermissionAlreadyExists;
 use Maklad\Permission\Models\Permission;
 use Monolog\Level;
-use Monolog\Logger;
 
 class PermissionTest extends TestCase
 {

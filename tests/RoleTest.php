@@ -8,7 +8,6 @@ use Maklad\Permission\Exceptions\RoleAlreadyExists;
 use Maklad\Permission\Models\Permission;
 use Maklad\Permission\Models\Role;
 use Monolog\Level;
-use Monolog\Logger;
 
 class RoleTest extends TestCase
 {
