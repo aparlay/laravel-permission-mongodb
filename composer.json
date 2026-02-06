@@ -12,7 +12,7 @@
         "mostafa",
         "spatie"
     ],
-    "version": "v1.0.0",
+    "version": "v2.0.0",
     "homepage": "https://github.com/mostafamaklad/laravel-permission-mongodb",
     "license": "MIT",
     "authors": [
@@ -31,9 +31,9 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/auth": "^11.0",
-        "illuminate/container": "^11.0",
-        "illuminate/contracts": "^11.0",
+        "illuminate/auth": "^11.0|^12.1",
+        "illuminate/container": "^11.0|^12.1",
+        "illuminate/contracts": "^11.0|^12.1",
         "mongodb/laravel-mongodb": "^5.5"
     },
     "require-dev": {
